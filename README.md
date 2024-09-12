@@ -79,8 +79,8 @@ public class Desenvolvedor {
     public Desenvolvedor() {
         this.nome = "[Seu Nome]";
         this.local = "Brasil";
-        this.linguagensFavoritas = new String[]{"Python", "JavaScript", "Java"};
-        this.hobbies = new String[]{"Música", "Gaming", "Viajar"};
+        this.linguagensFavoritas = new String[]{"C", "JavaScript", "Java"};
+        this.hobbies = new String[]{"Play Footbal", "Gaming", "Viajar"};
     }
 
     public void saudacao() {

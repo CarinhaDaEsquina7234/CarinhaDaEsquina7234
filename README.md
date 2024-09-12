@@ -69,16 +69,27 @@
 
 ## 🎨 Um Pouco Mais Sobre Mim
 
-```python
-class Desenvolvedor:
-    def __init__(self):
-        self.nome = "[Seu Nome]"
-        self.local = "Brasil"
-        self.linguagens_favoritas = ["Python", "JavaScript", "Java"]
-        self.hobbies = ["Música", "Gaming", "Viajar"]
-    
-    def saudacao(self):
-        print("Obrigado por visitar meu perfil no GitHub!")
+```java
+public class Desenvolvedor {
+    private String nome;
+    private String local;
+    private String[] linguagensFavoritas;
+    private String[] hobbies;
 
-me = Desenvolvedor()
-me.saudacao()
+    public Desenvolvedor() {
+        this.nome = "[Seu Nome]";
+        this.local = "Brasil";
+        this.linguagensFavoritas = new String[]{"Python", "JavaScript", "Java"};
+        this.hobbies = new String[]{"Música", "Gaming", "Viajar"};
+    }
+
+    public void saudacao() {
+        System.out.println("Obrigado por visitar meu perfil no GitHub!");
+    }
+
+    public static void main(String[] args) {
+        Desenvolvedor me = new Desenvolvedor();
+        me.saudacao();
+    }
+}
+

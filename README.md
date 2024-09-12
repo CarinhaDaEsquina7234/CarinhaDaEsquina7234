@@ -1,59 +1,27 @@
-## Olá, meu nome é {seu nome}!
+# Olá! Eu sou [Seu Nome] 👋
 
-### ⚙️ GitHub Analytics
+## 🚀 Sobre Mim
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Com [número] anos de experiência em desenvolvimento de software, tenho trabalhado em uma variedade de projetos, desde pequenos aplicativos pessoais até soluções corporativas robustas. Adoro aprender novas tecnologias e compartilhar conhecimentos com a comunidade.
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+- 🌱 Atualmente estou aprendendo: [Tecnologia/Skill atual]
+- 💼 Busco colaborar em: [Tipo de projetos que você quer trabalhar]
+- 📫 Como me encontrar: [Email ou redes sociais]
 
---- 
+## 🛠️ Habilidades
+- **Linguagens**: [Linguagens de programação que você domina]
+- **Frameworks/Plataformas**: [Frameworks que você utiliza]
+- **Ferramentas**: [Ferramentas e IDEs que você utiliza]
 
-### 🏆 GitHub Profile Trophy
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 
----
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+## 📈 Contribuições Recentes
+![Gráfico de contribuições](https://activity-graph.herokuapp.com/graph?username=seu-usuario&theme=radical)
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+## 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [Twitter](https://twitter.com/seu-usuario)
+- [Portfólio](https://seu-portfolio.com)

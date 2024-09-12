@@ -3,14 +3,14 @@
 ## 🚀 Sobre Mim
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Com [número] anos de experiência em desenvolvimento de software, tenho trabalhado em uma variedade de projetos, desde pequenos aplicativos pessoais até soluções corporativas robustas. Adoro aprender novas tecnologias e compartilhar conhecimentos com a comunidade.
 
-- 🌱 Atualmente estou aprendendo: [Java/POO]
+- 🌱 Atualmente estou aprendendo: [Tecnologia/Skill atual]
 - 💼 Busco colaborar em: [Tipo de projetos que você quer trabalhar]
 - 📫 Como me encontrar: [Email ou redes sociais]
 
 ## 🛠️ Habilidades
-- **Linguagens**: [Java]
-- **Frameworks/Plataformas**: [Spring Boot]
-- **Ferramentas**: [Java SE21/ Eclipse]
+- **Linguagens**: Git, GitHub, Java, HTML, CSS, JavaScript
+- **Frameworks/Plataformas**: [Frameworks que você utiliza]
+- **Ferramentas**: [Ferramentas e IDEs que você utiliza]
 
 ## 📊 Estatísticas do GitHub
 

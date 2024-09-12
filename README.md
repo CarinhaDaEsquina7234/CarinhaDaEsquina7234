@@ -16,10 +16,10 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Com [número] anos 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CarinhaDaEsquina7234&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/api?username=CarinhaDaEsquina7234&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CarinhaDaEsquina7234&layout=compact&theme=radical)
 
 ## 📈 Contribuições Recentes
-![Gráfico de contribuições](https://activity-graph.herokuapp.com/graph?username=seu-usuario&theme=radical)
+![Gráfico de contribuições](https://activity-graph.herokuapp.com/graph?username=CarinhaDaEsquina7234&theme=radical)
 
 ## 🌐 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)

@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/181356580?v=4" heigth="128" width="128"> <h1 align="center">Olá, Eu sou Rafael Oliveira 👋</h1>
+<img src="https://avatars.githubusercontent.com/u/181356580?v=4" heigth="128" width="128" top="32"> <h1 align="center">Olá, Eu sou Rafael Oliveira 👋</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/XXXXXX/YOUR-GIF.gif" alt="gif" width="200"/>

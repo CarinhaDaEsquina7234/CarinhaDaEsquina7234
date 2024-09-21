@@ -33,6 +33,6 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeloliveira&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveira&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveira&langs_count=7&layout=compact&theme=tokyonight&hide_border=true&hide=php,ruby,python" alt="languages"/>
+</div>
 ⬤

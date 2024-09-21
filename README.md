@@ -33,6 +33,61 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveira&langs_count=7&layout=compact&theme=tokyonight&hide_border=true&hide=php,ruby,python" alt="languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeloliveira&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveira&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
 </div>
-⬤
+
+---
+
+## 🚀 Meus Projetos Destacados
+
+- [**Projeto Xadrez**](https://github.com/rafaeloliveira/projetoxadrez) - Um sistema de xadrez desenvolvido em Java.
+- [**Projeto Automação**](https://github.com/rafaeloliveira/projetoautomacao) - Automação de processos utilizando Java e Selenium.
+- [**Projeto Web**](https://github.com/rafaeloliveira/projetoweb) - Um site desenvolvido com foco em design responsivo e UX.
+
+---
+
+## 📫 Como Me Encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafaeloliveira">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/rafaeloliveira/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/rafaeloliveira">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:rafael.oliveira@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+## 🎨 Um Pouco Mais Sobre Mim
+
+```java
+public class Desenvolvedor {
+    private String nome;
+    private String local;
+    private String[] linguagensFavoritas;
+    private String[] hobbies;
+
+    public Desenvolvedor() {
+        this.nome = "Rafael Oliveira";
+        this.local = "Brasil";
+        this.linguagensFavoritas = new String[]{"C", "JavaScript", "Java"};
+        this.hobbies = new String[]{"Futebol", "Gaming", "Viajar"};
+    }
+
+    public void saudacao() {
+        System.out.println("Obrigado por visitar meu perfil no GitHub!");
+    }
+
+    public static void main(String[] args) {
+        Desenvolvedor me = new Desenvolvedor();
+        me.saudacao();
+    }
+}

@@ -24,9 +24,9 @@
 
 ## 🌱 Atualmente Estou Aprendendo
 
-- 🔭 Estou explorando o mundo de **Desenvolvimento Desktop, Banco de Dados e Hacking**.
-- 🌱 Aprimorando minhas habilidades com **DevOps** e **Kubernetes**.
-- 💬 Pergunte-me sobre **Desenvolvimento Web** e **Automação**.
+- 🔭 Estou explorando o mundo de **Desenvolvimento de baixo nível**.
+- 🌱 Aprimorando minhas habilidade.
+- 💬 Pergunte-me sobre **desenovlvimento de sistemas não dependetes de Sistema Operacional**.
 
 ---
 

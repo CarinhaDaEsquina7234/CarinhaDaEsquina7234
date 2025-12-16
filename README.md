@@ -17,7 +17,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust" alt="Rust"/>
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
 </p>
 
 ---
